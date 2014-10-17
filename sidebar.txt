@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ore:home|Door43 (ore)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ore|d43-ore repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ore/archive/master.zip|d43-ore.zip]]
+
+**Recent Changes**
+{{changes>ns = ore}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ore|Ethnologue data]]
+
